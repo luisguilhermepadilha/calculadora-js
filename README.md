@@ -1,10 +1,13 @@
 # 🧮 Calculadora Web
+Uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
 
 <p align="center">
   <img src="print.png" width="400"/>
 </p>
 
-Uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
+## 🌐 Acesse o projeto
+
+👉 https://luisguilhermepadilha.github.io/calculadora-js/
 
 ---
 
