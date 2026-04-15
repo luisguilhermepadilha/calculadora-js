@@ -1,6 +1,8 @@
 # 🧮 Calculadora Web
 
-![Calculadora](print.png)
+<p align="center">
+  <img src="print.png" width="400"/>
+</p>
 
 Uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
 
