@@ -35,4 +35,4 @@ Uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
 
 ## 📌 Autor
 
-Luís Padilha
+Luís Guilherme Padilha
