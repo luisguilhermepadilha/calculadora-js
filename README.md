@@ -1,5 +1,7 @@
 # 🧮 Calculadora Web
 
+![Calculadora](print.png)
+
 Uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
 
 ---
